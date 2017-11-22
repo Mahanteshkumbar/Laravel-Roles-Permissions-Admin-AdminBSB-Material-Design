@@ -11,11 +11,11 @@ It is a full Laravel project that you should use as a starter project and implem
 * Run php artisan migrate --seed (it has some seeded data - see below)
 * That's it: launch the main URL and login with default credentials admin@admin.com - password
 
-#Permissions
+# Permissions
 ![picture alt](https://github.com/Mahanteshkumbar/Laravel-Roles-Permissions-Admin-AdminBSB-Material-Design/blob/master/img/permission.PNG)
 
-#Roles
+# Roles
 ![picture alt](https://github.com/Mahanteshkumbar/Laravel-Roles-Permissions-Admin-AdminBSB-Material-Design/blob/master/img/roles.PNG)
 
-Thanks To:
+# Special Thanks To:
 [AdminBSB - Material Design](https://gurayyarar.github.io/AdminBSBMaterialDesign/)
