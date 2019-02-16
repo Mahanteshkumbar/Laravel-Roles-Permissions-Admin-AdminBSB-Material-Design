@@ -49,7 +49,7 @@ class PermissionsController extends Controller
     public function store(Request $request)
     {
         $request->validate([
-            'permission' => 'required|unique:permissions|max:20',
+            'name' => 'required|unique:permissions|max:20',
         ]);
 
         Permission::create($request->all());
@@ -81,7 +81,7 @@ class PermissionsController extends Controller
     public function update(Request $request, $id)
     {
         $request->validate([
-            'permission' => 'required|unique:permissions|max:20',
+            'name' => 'required|unique:permissions|max:20',
         ]);
 
         $permission = Permission::findOrFail($id);
