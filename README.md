@@ -1,3 +1,7 @@
+# Laravel 7.X Version Roles-Permissions-Admin Bootstrap 4.x(Dont Forget to click on Star)
+[Laravel 7.X Version Admin Panel Paper Dashboard](https://github.com/Mahanteshkumbar/Laravel7.x-Roles-Permissions-Admin-Paper-Dashboard-bootstrap4)
+
+
 # Laravel-Roles-Permissions-Admin-AdminBSB-Material-Design
 This is a Laravel 5.X adminpanel starter project with roles-permissions management based on Spatie Laravel-permission package, AdminBSB - Material Design theme and also has jquery Datatables.
 
